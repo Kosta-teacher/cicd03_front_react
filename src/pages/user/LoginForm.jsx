@@ -57,7 +57,6 @@ const LoginForm =()=>{
         //Home.jsx로 이동한다.
         navigator("/"); 
 
-
     })
     .catch((err)=>{
       alert("정보를 다시 확인해주세요.");
